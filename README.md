@@ -22,3 +22,11 @@ Built With
 
 JavaScript (Vanilla): All game logic is implemented with pure JavaScript, without any external libraries.
 HTML/CSS: Simple and clean front-end interface.
+
+
+
+
+
+
+
+![Screenshot 2024-10-12 115839](https://github.com/user-attachments/assets/fec67353-d59e-4838-9697-22b1fc3cca01)
