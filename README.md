@@ -23,7 +23,10 @@ Built With
 JavaScript (Vanilla): All game logic is implemented with pure JavaScript, without any external libraries.
 HTML/CSS: Simple and clean front-end interface.
 
-
+TODO:-
+-Black Pawn enpassant bug
+-Checkmate/Check
+-Castling
 
 
 
